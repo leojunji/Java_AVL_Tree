@@ -45,7 +45,7 @@ But, if you do it in an AVL-Tree, you will go through in less numbers:
 - 1
 
 Obsviusly, in this example, the time is almost the same. But, imagine if you had a tree with 100 numbers, and you insert each number in-order(1,2,3,4...100). If you were asked to get the number
-100 in a BST you would need to go trough, all the numbers in the tree. But in an avl tree you would need to go through much less numbers, to find the number 100.
+100 in a BST you would need to go trough all the numbers in the tree. But in an avl tree you would need to go through many fewer numbers, to find the number 100.
 
 <h1 style="text-align: center;">AVL TREE</h1>
 
