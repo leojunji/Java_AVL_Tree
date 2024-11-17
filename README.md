@@ -6,7 +6,7 @@ This is an Java code of AVL tree.
 
 <h1 style="text-align: center;">What is an AVL TREE ?</h1>
 
-Basically, an AVL tree is a type of tree that uses a method of storing values to speed up the search for values.
+An AVL tree is a type of tree that uses a method of storing values to speed up the search for values.
 
 e.g.
 
