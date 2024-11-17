@@ -66,7 +66,7 @@ Lets say, we want to insert in this sequence:
 5 -> 2 -> 7
 
 - In this case, we will insert 5 and nominate him as the root
-- We will se if number 2 is smaller, it will go to the left of the 5, but if its is bigger, it will go the the right
+- We will see if number 2 is smaller than number 5, and if it is, it will go to the left of 5. But if it is bigger, it will go to the right.
 - After put 2, on the left of number 5, we will apply the same logic for the insertion of 7.
 
 
