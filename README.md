@@ -51,7 +51,7 @@ Obsviusly, in this example, the time is almost the same. But, imagine if you had
 
 https://www.geeksforgeeks.org/introduction-to-avl-tree/
 
-<h1 style="text-align: center;">AVL TREE</h1>
+<h1 style="text-align: center;">AVL TREE CODE</h1>
 
 In this AVL-Tree, thou can do the following actions:
 
