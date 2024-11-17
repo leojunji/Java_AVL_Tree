@@ -56,7 +56,8 @@ https://www.geeksforgeeks.org/introduction-to-avl-tree/
 <h1 style="text-align: center;">What is a Tree ?</h1> <a name="modulo1"></a> 
 Theres is many ways to store data in programming(e.g., Arrays, linked lists, stacks...). And one of them, is Tree. The main purpose of Tree or a Binary Search Tree(BST) is to store data, in a way that is fast to find them.
 
-In a Tree, you have the root — which is the first and constant value. And, always when you need to walk trough the Tree(e.i., to insert a value), you pass on them root.
+
+In a Tree, you have the root — which is the first and constant value. And, always when you need to walk trough the Tree(e.i., to insert a value), you pass on the root.
 
 e.g., 
 
