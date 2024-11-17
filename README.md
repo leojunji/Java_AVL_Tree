@@ -28,7 +28,7 @@ But, if you add the same sequence of numbers, in an AVL-Tree, you will have this
 If you caculate, for each tree, how much time it takes to store, the following sequence. You will see that to insert them in an BST, it will take much lees time than in an AVL-Tree. 
 Neverthless, if you cauculate the time to find an specific value. You will see that sometimes, to do it in an AVL-Tree, it will be faster than to do it in a BST.
 
-e.g., Looking for the number 1
+e.g., Looking for the number <span style="color: orange;">1</span>
 
 In the BST, you will go through the following numbers:
 
@@ -36,13 +36,13 @@ In the BST, you will go through the following numbers:
 - 4
 - 3
 - 2
-- 1
+- <span style="color: orange;">1</span>
 
 But, if you do it in an AVL-Tree, you will go through in less numbers:
 
 - 4
 - 2
-- 1
+- <span style="color: orange;">1</span>
 
 Obsviusly, in this example, the time is almost the same. But, imagine if you had a tree with 100 numbers, and you insert each number in-order(1,2,3,4...100). If you were asked to get the number
 100 in a BST you would need to go trough all the numbers in the tree. But in an avl tree you would need to go through many fewer numbers, to find the number 100.
