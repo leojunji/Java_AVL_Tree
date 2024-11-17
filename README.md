@@ -2,9 +2,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" />
 
-<a href = "mailto:leojunji@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
 This is an Java code of an AVL tree. 
+
+<p></p>
+
+<a href = "mailto:leojunji@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 <h1 style="text-align: center;">What is an AVL TREE ?</h1><a name="modulo2"></a>
 
@@ -72,8 +74,7 @@ Following the interface:
 <h1 style="text-align: center;">What is a Tree ?</h1> <a name="modulo1"></a> 
 
 Theres is many ways to store data in programming(e.g., Arrays, linked lists, stacks...). And one of them, is Tree. The main purpose of Tree or a Binary Search Tree(BST) is to store data, in a way that is fast to find them(*"a symptom from the logic of produce more and faster*")
-
-
+<p></p>
 In a Tree, you have the root — which is the first and constant value. And, always when you need to walk trough the Tree(e.i., to insert a value), you pass on the root.
 
 e.g., 
