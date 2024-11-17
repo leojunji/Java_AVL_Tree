@@ -8,9 +8,9 @@ This is an Java code of AVL tree.
 
 If you don't know what is a tree: [what is a tree ?](#modulo1) 
 
-Note: AVL = named after inventors Adelson-Velsky and Landis
-
 An AVL tree is a type of tree that uses a method of storing values to speed up the search for values.
+
+*Note: AVL = named after inventors Adelson-Velsky and Landis*
 
 e.g.
 
