@@ -86,7 +86,7 @@ So, in the end, the representation will by like this:
 ![image](https://github.com/user-attachments/assets/e30ffa5f-e7ef-4a1c-b96b-d485319d3f21)
 
 
-But, the problem with BTS is it depends on the order that the data is stored, to work well.
+But, the problem with BTS is it depends on the order that the data is inserted, to work well.
 
 e.g.,
 
