@@ -6,6 +6,8 @@ This is an Java code of AVL tree.
 
 <h1 style="text-align: center;">What is an AVL TREE ?</h1>
 
+If you don't know what is a tree: [what is a tree ?](#modulo1) 
+
 An AVL tree is a type of tree that uses a method of storing values to speed up the search for values.
 
 e.g.
@@ -50,6 +52,8 @@ Obsviusly, in this example, the time is almost the same. But, imagine if you had
 *for more information about, how an AVL-Tree works*
 
 https://www.geeksforgeeks.org/introduction-to-avl-tree/
+
+<h1 style="text-align: center;">What is a Tree ?</h1> <a name="modulo2"></a> 
 
 <h1 style="text-align: center;">AVL TREE CODE</h1>
 
