@@ -2,7 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" />
 
-This is an Java code of AVL tree. 
+This is an Java code of an AVL tree. 
 
 <h1 style="text-align: center;">What is an AVL TREE ?</h1><a name="modulo2"></a>
 
