@@ -53,7 +53,7 @@ Obsviusly, in this example, the time is almost the same. But, imagine if you had
 
 https://www.geeksforgeeks.org/introduction-to-avl-tree/
 
-<h1 style="text-align: center;">What is a Tree ?</h1> <a name="modulo2"></a> 
+<h1 style="text-align: center;">What is a Tree ?</h1> <a name="modulo1"></a> 
 
 <h1 style="text-align: center;">AVL TREE CODE</h1>
 
