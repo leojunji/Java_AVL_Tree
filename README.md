@@ -6,7 +6,7 @@ This is an Java code of AVL tree.
 
 <h1 style="text-align: center;">What is an AVL TREE ?</h1><a name="modulo2"></a>
 
-If you don't know what is a tree: [what is a tree ?](#modulo1) 
+If you don't know what is a tree: [what is a tree(BST) ?](#modulo1) 
 
 An AVL tree is a type of tree that uses a method of storing values to speed up the search for values.
 
@@ -53,7 +53,7 @@ Obsviusly, in this example, the time is almost the same. But, imagine if you had
 
 https://www.geeksforgeeks.org/introduction-to-avl-tree/
 
-<h1 style="text-align: center;">What is a Tree ?</h1> <a name="modulo1"></a> 
+<h1 style="text-align: center;">What is a Tree(BST) ?</h1> <a name="modulo1"></a> 
 Theres is many ways to store data in programming(e.g., Arrays, linked lists, stacks...). And one of them, is Tree. The main purpose of Tree or a Binary Search Tree(BST) is to store data, in a way that is fast to find them.
 
 
@@ -87,7 +87,7 @@ The representation will be like this:
 
 ![image](https://github.com/user-attachments/assets/f922ff63-47c3-49c7-ba50-63f83d2ba97a)
 
-And, for instance. If we would look for number 5, we would need to go through all the numbers, to find him. Thereby, The Tree(BST) would ends up being a an ArrayList.
+And, the problem with it, is that if we would need to look for number 5, we would need to go through all the numbers, to find him. Thereby, The Tree(BST) would ends up being a an ArrayList.
 
 So, to tackle that problem. It was created the AVL TREE: [What is an AVL TREE ?](#modulo2)
 
