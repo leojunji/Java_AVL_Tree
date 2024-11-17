@@ -2,6 +2,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" />
 
+<a href = "mailto:leojunji@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+
 This is an Java code of an AVL tree. 
 
 <h1 style="text-align: center;">What is an AVL TREE ?</h1><a name="modulo2"></a>
