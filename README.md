@@ -65,8 +65,7 @@ In this AVL-Tree, thou can do the following actions:
 
 Following the interface:
 
-![image](https://github.com/user-attachments/assets/73b79715-87c3-4b13-ac0c-839efb8e4388)
-
+![image](https://github.com/user-attachments/assets/69ee188e-0c9a-4224-8bd5-49db6e9ec853)
 
 <h1 style="text-align: center;">What is a Tree ?</h1> <a name="modulo1"></a> 
 
