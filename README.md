@@ -49,7 +49,7 @@ Obsviusly, in this example, the time is almost the same. But, imagine if you had
 
 <h1 style="text-align: center;">AVL TREE</h1>
 
-In the AVL-Tree, thou can do the following actions:
+In this AVL-Tree, thou can do the following actions:
 
  - Insert and remove values in a balanced way
  - Find an specific value
