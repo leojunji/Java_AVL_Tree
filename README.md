@@ -4,7 +4,7 @@
 
 This is an Java code of AVL tree. 
 
-<h1 style="text-align: center;">What is an AVL TREE ?</h1>
+<h1 style="text-align: center;">What is an AVL TREE ?</h1><a name="modulo2"></a>
 
 If you don't know what is a tree: [what is a tree ?](#modulo1) 
 
@@ -54,6 +54,42 @@ Obsviusly, in this example, the time is almost the same. But, imagine if you had
 https://www.geeksforgeeks.org/introduction-to-avl-tree/
 
 <h1 style="text-align: center;">What is a Tree ?</h1> <a name="modulo1"></a> 
+Theres is many ways to store data in programming(e.g., Arrays, linked lists, stacks...). And one of them, is Tree. The main purpose of Tree or a Binary Search Tree(BST) is to store data, in a way that is fast to find them.
+
+In a Tree, you have the root — which is the first and constant value. And, always when you need to walk trough the Tree(e.i., to insert a value), you pass on them root.
+
+e.g., 
+
+Lets say, we want to insert in this sequence:
+
+5 -> 2 -> 7
+
+- In this case, we will insert 5 and nominate him as the root
+- We will se if number 2 is smaller, it will go to the left of the 5, but if its is bigger, it will go the the right
+- After put 2, on the left of number 5, we will apply the same logic for the insertion of 7.
+
+
+So, in the end, the representation will by like this:
+
+![image](https://github.com/user-attachments/assets/e30ffa5f-e7ef-4a1c-b96b-d485319d3f21)
+
+
+But, the problem with BTS is it depends on the order that the data is stored, to work well.
+
+e.g.,
+
+Inserting this sequence:
+
+10 -> 9 -> 8 -> 7 -> 6 -> 5.
+
+The representation will be like this:
+
+![image](https://github.com/user-attachments/assets/f922ff63-47c3-49c7-ba50-63f83d2ba97a)
+
+And, for instance. If we would look for number 5, we would need to go through all the numbers, to find him. Thereby, The Tree(BST) would ends up being a an ArrayList.
+
+So, to tackle that problem. It was created the AVL TREE: [What is an AVL TREE ?](#modulo2)
+
 
 <h1 style="text-align: center;">AVL TREE CODE</h1>
 
