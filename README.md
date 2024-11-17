@@ -6,7 +6,7 @@ This is an Java code of AVL tree.
 
 <h1 style="text-align: center;">What is an AVL TREE ?</h1><a name="modulo2"></a>
 
-If you don't know what is a tree: [what is a tree(BST) ?](#modulo1) 
+If you don't know what is a tree: [what is a tree ?](#modulo1) 
 
 An AVL tree is a type of tree that uses a method of storing values to speed up the search for values.
 
@@ -49,11 +49,20 @@ But, if you do it in an AVL-Tree, you will go through in less numbers:
 Obsviusly, in this example, the time is almost the same. But, imagine if you had a tree with 100 numbers, and you insert each number in-order(1,2,3,4...100). If you were asked to get the number
 100 in a BST you would need to go trough all the numbers in the tree. But in an avl tree you would need to go through many fewer numbers, to find the number 100.
 
-*for more information about, how an AVL-Tree works*
+*for more information*
 
-https://www.geeksforgeeks.org/introduction-to-avl-tree/
+* how an AVL-Tree works: https://www.geeksforgeeks.org/introduction-to-avl-tree/
 
-<h1 style="text-align: center;">What is a Tree(BST) ?</h1> <a name="modulo1"></a> 
+<h1 style="text-align: center;">AVL TREE CODE</h1>
+
+In this AVL-Tree, thou can do the following actions:
+
+ - Insert and remove values in a balanced way
+ - Find an specific value
+ - Walk and show the values in 3 different types: pre-order, in-order and post-order.
+
+<h1 style="text-align: center;">What is a Tree ?</h1> <a name="modulo1"></a> 
+
 Theres is many ways to store data in programming(e.g., Arrays, linked lists, stacks...). And one of them, is Tree. The main purpose of Tree or a Binary Search Tree(BST) is to store data, in a way that is fast to find them.
 
 
@@ -90,14 +99,5 @@ The representation will be like this:
 And, the problem with it, is that if we would need to look for number 5, we would need to go through all the numbers, to find him. Thereby, The Tree(BST) would ends up being a an ArrayList.
 
 So, to tackle that problem. It was created the AVL TREE: [What is an AVL TREE ?](#modulo2)
-
-
-<h1 style="text-align: center;">AVL TREE CODE</h1>
-
-In this AVL-Tree, thou can do the following actions:
-
- - Insert and remove values in a balanced way
- - Find an specific value
- - Walk and show the values in 3 different types: pre-order, in-order and post-order.
 
 
