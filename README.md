@@ -63,6 +63,10 @@ In this AVL-Tree, thou can do the following actions:
  - Find an specific value
  - Walk and show the values in 3 different types: pre-order, in-order and post-order.
 
+Following the interface:
+
+![image](https://github.com/user-attachments/assets/9674da25-dc80-4588-89cf-c16f432a20f3)
+
 <h1 style="text-align: center;">What is a Tree ?</h1> <a name="modulo1"></a> 
 
 Theres is many ways to store data in programming(e.g., Arrays, linked lists, stacks...). And one of them, is Tree. The main purpose of Tree or a Binary Search Tree(BST) is to store data, in a way that is fast to find them(*"a symptom from the logic of produce more and faster*")
