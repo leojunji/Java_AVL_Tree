@@ -10,7 +10,7 @@ Basically, an AVL tree is a type of tree that uses a method of storing values to
 
 e.g.
 
-Lets suposse, that we want to add in a Tree, the folowing numbers and in the order that they are presented:
+Lets suposse, that we want to insert in a Tree, the folowing numbers and in the order that they are below:
 
 5 -> 4 -> 3 -> 2 -> 1.
 
