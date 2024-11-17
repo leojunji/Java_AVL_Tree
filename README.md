@@ -14,7 +14,7 @@ Lets suposse, that we want to insert in a Tree, the folowing numbers and in the 
 
 5 -> 4 -> 3 -> 2 -> 1.
 
-If you add those numbers, in a Binary Search Tree(i.e.,**non** AVL-Tree), you will have the following representation:
+If you add those numbers, in a Binary Search Tree(BST), you will have the following representation:
 
 
 ![image](https://github.com/user-attachments/assets/2202d2c4-88cf-4492-97e6-d8ff0969bcae)
@@ -25,8 +25,8 @@ But, if you add the same sequence of numbers, in an AVL-Tree, you will have this
 ![image](https://github.com/user-attachments/assets/e7743324-fe76-4b1a-b064-ee67ed9f4833)
 
 
-If you caculate, for each tree, how much time it takes to store, the following sequence. You will see that to insert them in an Binary Search Tree(BST), it will take much lees time than in an AVL-Tree. 
-Neverthless, if you cauculate the time to find an specific value. You will see that sometimes, to do it in an AVL-Tree, it will be faster than to do it in a Binary Search Tree(BST).
+If you caculate, for each tree, how much time it takes to store, the following sequence. You will see that to insert them in an BST, it will take much lees time than in an AVL-Tree. 
+Neverthless, if you cauculate the time to find an specific value. You will see that sometimes, to do it in an AVL-Tree, it will be faster than to do it in a BST.
 
 e.g., Looking for the number 1
 
