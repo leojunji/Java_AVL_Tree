@@ -68,19 +68,19 @@ public class Tree implements AVL {
     }
 
     /**
-     * @param node is unbalanced if his factor isn't between -1 or 1
+     * @param node is unbalanced if his balance_factor isn't between -1 or 1
      */
     private void toBalance(Node node) {
         if(node==null) return;
-        int fator = this.isFactor(node);
+        int balance_factor = this.isFactor(node);
 
-        if ( fator == 2 ) {
+        if ( balance_factor == 2 ) {
             if (this.isFactor(node.getLeft())>0) {
                 toRightRotation(node);
             }else {
                 toDoubleRightRotation(node) ;}
         }
-        else if (fator == -2 ) {
+        else if (balance_factor == -2 ) {
             if ( this.isFactor(node.getRight())<0 ) {
                 toLeftRotation(node);
             } else {
