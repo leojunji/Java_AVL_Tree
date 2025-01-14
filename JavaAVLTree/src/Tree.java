@@ -68,7 +68,7 @@ public class Tree implements AVL {
     }
 
     /**
-     * @param node is balanced if his factor isn't between -1 or 1
+     * @param node is unbalanced if his factor isn't between -1 or 1
      */
     private void toBalance(Node node) {
         if(node==null) return;
